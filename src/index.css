@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* .pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.pagination-button {
+  padding: 0.5rem 1rem;
+  margin: 0 0.25rem;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.active {
+  background-color: #007bff;
+  color: #fff;
+} */
